@@ -1,0 +1,4 @@
+condition,mean_brightness,mean_blue_channel,output_file
+day,140.08,138.52,day_output.png
+night,94.64,103.33,night_output.png
+sunset,165.3,116.12,sunset_output.png

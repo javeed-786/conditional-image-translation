@@ -1,0 +1,4 @@
+condition,brightness,contrast,blue_tone
+day,1.10,1.05,0.00
+night,0.45,1.20,0.25
+sunset,1.05,1.15,0.10
